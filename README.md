@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ayoub El Andaloussi
 
-🚀 I'm a passionate **Software Engineer** specializing in **Web Development** with a strong focus on **NestJS**, **React**, and **Prisma**.  
+🚀 I'm a passionate **Software developer** specializing in **Web Development** with a strong focus on **NestJS**, **React**, and **Prisma**.  
 💻 Currently exploring: **Backend architecture**, **Clean Code**, and **Cloud Deployments**.  
 🌍 Based in: Benguerir, Morocco 🇲🇦
 
